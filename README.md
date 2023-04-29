@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/atom06)
 
-- 📝 I regularly write articles on [grahpite](https://atom06.blogspot.com/) [Nexus: the build](https://building-nexus.blogspot.com/)
+- 📝 I regularly write articles on [grahpite](https://atom06.blogspot.com/), [Nexus: the build](https://building-nexus.blogspot.com/)
 
 - 💬 Ask me anything about my projects
 
