@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm atom06</h1>
-<h3 align="center">Another Javascript Devolper</h3>
+<h3 align="center">Another Javascript Developer</h3>
 
 - 🔭 I’m currently working on **Nexus, Encrypta**
 
