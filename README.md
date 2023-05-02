@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm atom06</h1>
 <h3 align="center">Another Javascript Developer</h3>
 
-- 🔭 I’m currently working on **Nexus, Encrypta**
+- 🔭 I’m currently working on **Nexus, Encrypta, Diary**
 
+- 🛠️ i've Made [FileJS](https://gist.github.com/atom06/45ff6aeabe74d249965e0776dcb14a2f), [Smallize](https://github.com/atom06/smallize), [Portal](https://github.com/atom06/portal), [Octawack](https://github.com/atom06/octawack), [Xmilla](https://github.com/atom06/xmilla)
+  
 - 🌱 I’m currently learning **Everything about P2P networks and Typescript**
 
 - 👯 I’m looking to collaborate on **Javascript and typescript**
@@ -11,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/atom06)
 
-- 📝 I regularly write articles on [grahpite](https://atom06.blogspot.com/), [Nexus: the build](https://building-nexus.blogspot.com/)
+- 📝 I write articles on [grahpite](https://atom06.blogspot.com/), [Nexus: the build](https://building-nexus.blogspot.com/)
 
 - 💬 Ask me anything about my projects
 
