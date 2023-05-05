@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Nexus, Encrypta, Diary**
 
-- 🛠️ i've Made [FileJS](https://gist.github.com/atom06/45ff6aeabe74d249965e0776dcb14a2f), [Smallize](https://github.com/atom06/smallize), [Portal](https://github.com/atom06/portal), [Octawack](https://github.com/atom06/octawack), [Xmilla](https://github.com/atom06/xmilla)], [Git-Nuke](https://github.com/atom06/git-nuke)
+- 🛠️ i've Made [FileJS](https://gist.github.com/atom06/45ff6aeabe74d249965e0776dcb14a2f), [Smallize](https://github.com/atom06/smallize), [Portal](https://github.com/atom06/portal), [Octawack](https://github.com/atom06/octawack), [Xmilla](https://github.com/atom06/xmilla), [Git-Nuke](https://github.com/atom06/git-nuke)
   
 - 🌱 I’m currently learning **Everything about P2P networks and Typescript**
 
